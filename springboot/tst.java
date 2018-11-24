@@ -18,6 +18,7 @@ public class tst {
         for (String s : map.values()) {
             System.out.println(s);
         }
+        System.out.println("66666666666");
 
         Iterator<Map.Entry<String, String>> iterator = map.entrySet().iterator();
         while (iterator.hasNext()){
