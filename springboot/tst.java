@@ -19,6 +19,7 @@ public class tst {
             System.out.println(s);
         }
         System.out.println("66666666666");
+        System.out.println("************");
 
         Iterator<Map.Entry<String, String>> iterator = map.entrySet().iterator();
         while (iterator.hasNext()){
